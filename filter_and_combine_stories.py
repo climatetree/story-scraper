@@ -1,5 +1,5 @@
-from os import listdir
-from os.path import isfile, join
+from os import listdir, makedirs
+from os.path import isfile, join, exists
 import json
 import bson
 import csv
@@ -53,8 +53,8 @@ def writeToJson(obj):
         json.dump(obj, f)
 
 def main():
-    if not os.path.exists(outDir):
-        os.makedirs('filtered_stories')
+    if not exists(outDir):
+        makedirs('filtered_stories')
     finalJson = []
     placeIdToNameDict = parsePlaceCSV("place_name_id.csv")
     files = getFiles(jsonDir)
