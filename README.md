@@ -23,7 +23,7 @@ pip install pymongo
 ##### Usage -- Collecting Stories:
 
 ```sh
-python Climate_tree_scraper.py your_csv.csv
+python climate_tree_scraper.py your_csv.csv
 ```
 
 Input csv must have header place,id, as supplied by the "/split_place_name_id_csvs" folder
@@ -47,10 +47,6 @@ This posts each story in the stories.json file output by filter_and_combine_stor
 ##### Input Data:
 
 Each file contains 50 rows and is named place_name_id_n.csv where n indicates the file number, lower numbers correspond to more populous places. 
-
-To contribute, sign up for a input file in the class google drive folder ASD - Spring 2020/Data/Story Scraper/Story Scraper File Tracker 
-
-Then download the corresponding file from  ASD - Spring 2020/Data/Story Scraper/Input Files and use it to run the script.
 
 ##### Database Connection:
 
