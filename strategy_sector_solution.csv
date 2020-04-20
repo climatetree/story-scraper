@@ -1,0 +1,206 @@
+Strategy,Sector,Solution
+Mitigation,Buildings and Cities,District Heating
+Mitigation,Buildings and Cities,Insulation
+Mitigation,Buildings and Cities,LED Lighting (Household)
+Mitigation,Buildings and Cities,Heat Pumps
+Mitigation,Buildings and Cities,LED Lighting (Commercial)
+Mitigation,Buildings and Cities,Building Automation
+Mitigation,Buildings and Cities,Walkable Cities
+Mitigation,Buildings and Cities,Smart Thermostats
+Mitigation,Buildings and Cities,Landfill Methane
+Mitigation,Buildings and Cities,Bike Infrastructure
+Mitigation,Buildings and Cities,Smart Glass
+Mitigation,Buildings and Cities,Water Distribution
+Mitigation,Buildings and Cities,Green Roofs
+Mitigation,Buildings and Cities,Net Zero Buildings
+Mitigation,Buildings and Cities,Retrofitting
+Mitigation,Electricity Generation,Wind Turbines (Onshore)
+Mitigation,Electricity Generation,Solar Farms
+Mitigation,Electricity Generation,Rooftop Solar
+Mitigation,Electricity Generation,Geothermal
+Mitigation,Electricity Generation,Nuclear
+Mitigation,Electricity Generation,Wind Turbines (Offshore)
+Mitigation,Electricity Generation,Concentrated Solar
+Mitigation,Electricity Generation,Wave and Tidal
+Mitigation,Electricity Generation,Methane Digesters (Large)
+Mitigation,Electricity Generation,Biomass
+Mitigation,Electricity Generation,Solar Water
+Mitigation,Electricity Generation,In-Stream Hydro
+Mitigation,Electricity Generation,Cogeneration
+Mitigation,Electricity Generation,Methane Digesters (Small)
+Mitigation,Electricity Generation,Waste-to-Energy
+Mitigation,Electricity Generation,Micro Wind
+Mitigation,Electricity Generation,Energy Storage (Distributed)
+Mitigation,Electricity Generation,Energy Storage (Utilities)
+Mitigation,Electricity Generation,Grid Flexibility
+Mitigation,Electricity Generation,Microgrids
+Mitigation,Food,Reduced Food Waste
+Mitigation,Food,Plant-Rich Diet
+Mitigation,Food,Silvopasture
+Mitigation,Food,Regenerative Agriculture
+Mitigation,Food,Tropical Staple Trees
+Mitigation,Food,Conservation Agriculture
+Mitigation,Food,Tree Intercropping
+Mitigation,Food,Managed Grazing
+Mitigation,Food,Clean Cookstoves
+Mitigation,Food,Farmland Restoration
+Mitigation,Food,Improved Rice Cultivation
+Mitigation,Food,Multistrata Agroforestry
+Mitigation,Food,System of Rice Intensification
+Mitigation,Food,Composting
+Mitigation,Food,Nutrient Management
+Mitigation,Food,Farmland Irrigation
+Mitigation,Food,Biochar
+Mitigation,Land Use,Tropical Forests
+Mitigation,Land Use,Temperate Forests
+Mitigation,Land Use,Peatlands
+Mitigation,Land Use,Afforestation
+Mitigation,Land Use,Bamboo
+Mitigation,Land Use,Forest Protection
+Mitigation,Land Use,Indigenous Peoples’ Land Management
+Mitigation,Land Use,Perennial Biomass
+Mitigation,Land Use,Coastal Wetlands
+Mitigation,Materials,Refrigerant Management
+Mitigation,Materials,Alternative Cement
+Mitigation,Materials,Water Saving - Home
+Mitigation,Materials,Bioplastic
+Mitigation,Materials,Household Recycling
+Mitigation,Materials,Industrial Recycling
+Mitigation,Materials,Recycled Paper
+Mitigation,Transport,Electric Vehicles
+Mitigation,Transport,Ships
+Mitigation,Transport,Mass Transit
+Mitigation,Transport,Trucks
+Mitigation,Transport,Airplanes
+Mitigation,Transport,Cars
+Mitigation,Transport,Telepresence
+Mitigation,Transport,High-speed Rail
+Mitigation,Transport,Electric Bikes
+Mitigation,Transport,Trains
+Mitigation,Transport,Ridesharing
+Mitigation,Women and Girls,Educating Girls
+Mitigation,Women and Girls,Family Planning
+Mitigation,Women and Girls,Women Smallholders
+Adaptation,Ecosystem-based,Ecological restoration
+Adaptation,Ecosystem-based,wetland and floodplain conservation and restoration
+Adaptation,Ecosystem-based,increasing biological diversity
+Adaptation,Ecosystem-based,afforestation and reforestation
+Adaptation,Ecosystem-based,conservation and replanting mangrove forest
+Adaptation,Ecosystem-based,bushfire reduction and prescribed fire
+Adaptation,Ecosystem-based,green infrastructure
+Adaptation,Ecosystem-based,controlling overfishing
+Adaptation,Ecosystem-based,fisheries co-management
+Adaptation,Ecosystem-based,assisted migration or managed translocation
+Adaptation,Ecosystem-based,ecological corridors
+Adaptation,Ecosystem-based,ex situ conservation
+Adaptation,Ecosystem-based,seed banks
+Adaptation,Ecosystem-based,community-based natural resource management
+Adaptation,Ecosystem-based,adaptive land use management
+Adaptation,Engineered and Built Envionment,Seawalls and coastal protection structures
+Adaptation,Engineered and Built Envionment,flood levees and culverts
+Adaptation,Engineered and Built Envionment,water storage and pump storage
+Adaptation,Engineered and Built Envionment,sewage works
+Adaptation,Engineered and Built Envionment,improved drainage
+Adaptation,Engineered and Built Envionment,beach nourishment
+Adaptation,Engineered and Built Envionment,flood and cyclone shelters
+Adaptation,Engineered and Built Envionment,building codes
+Adaptation,Engineered and Built Envionment,storm and wastewater management
+Adaptation,Engineered and Built Envionment,transport and road infrastruction adaptation
+Adaptation,Engineered and Built Envionment,floating houses
+Adaptation,Engineered and Built Envionment,adjusting power plants and electricity grids
+Adaptation,Technological,New crop and animal varieties
+Adaptation,Technological,genetic techniques
+Adaptation,Technological,traditional technologies and methods
+Adaptation,Technological,efficient irrigation
+Adaptation,Technological,water saving technologies
+Adaptation,Technological,rainwater harvesting
+Adaptation,Technological,conservation agriculture
+Adaptation,Technological,food storage and preservation facilities
+Adaptation,Technological,hazard mapping and monitoring technology
+Adaptation,Technological,early warning system
+Adaptation,Technological,building insulation
+Adaptation,Technological,mechanical and passive cooling
+Adaptation,Technological,renewable energy technologie
+Adaptation,Technological,second-generation biofuels
+Adaptation,Services,Social safety nets and social protection
+Adaptation,Services,food banks and distribution of food surplu
+Adaptation,Services,municipal services including water and sanitation
+Adaptation,Services,vaccination programs
+Adaptation,Services,essential public health services
+Adaptation,Services,including reproductive health services
+Adaptation,Services,enhanced emergency medical services
+Adaptation,Services,international trade
+Adaptation,Educational,Awareness raising and integrating into education
+Adaptation,Educational,gender equity in education
+Adaptation,Educational,extension services
+Adaptation,Educational,sharing local and traditional knowledge
+Adaptation,Educational,integrating into adaptation planning
+Adaptation,Educational,participatory action research and social learning
+Adaptation,Educational,community surveys
+Adaptation,Educational,knowledge-sharing and learning platforms
+Adaptation,Educational,international conferences and research networks
+Adaptation,Educational,communication through media
+Adaptation,Informational,Hazard and vulnerability mapping
+Adaptation,Informational,early warning and response systems
+Adaptation,Informational,including health early warning systems
+Adaptation,Informational,systematic monitoring and remote sensing
+Adaptation,Informational,improved forecasts
+Adaptation,Informational,downscaling climate scenarios
+Adaptation,Informational,longitudinal data sets
+Adaptation,Informational,integrating indigenous climate observations
+Adaptation,Informational,community-based adaptation plan
+Adaptation,Informational,community-driven slum upgrading
+Adaptation,Informational,participatory scenario development
+Adaptation,Behavioral,Accommodation
+Adaptation,Behavioral,household preparation and evacuation planning
+Adaptation,Behavioral,retreat
+Adaptation,Behavioral,migration
+Adaptation,Behavioral,human health
+Adaptation,Behavioral,human security
+Adaptation,Behavioral,soil and water conservation
+Adaptation,Behavioral,livelihood diversification
+Adaptation,Behavioral,changing livestock and aquaculture practices
+Adaptation,Behavioral,changing cropping
+Adaptation,Behavioral,crop-switching
+Adaptation,Behavioral,"practices, patterns, and planting dates"
+Adaptation,Behavioral,silvicultural option
+Adaptation,Behavioral,reliance on social networks
+Adaptation,Economic,Financial incentives including taxes and subsidies
+Adaptation,Economic,insurance
+Adaptation,Economic,including index-based weather insurance schemes
+Adaptation,Economic,catastrophe bonds
+Adaptation,Economic,revolving funds
+Adaptation,Economic,payments for ecosystem services
+Adaptation,Economic,water tariffs
+Adaptation,Economic,savings groups
+Adaptation,Economic,microfinance
+Adaptation,Economic,disaster contingency funds
+Adaptation,Economic,cash transfers
+Adaptation,Laws and regulations,Land zoning laws
+Adaptation,Laws and regulations,building standards
+Adaptation,Laws and regulations,easements
+Adaptation,Laws and regulations,water regulations and agreements
+Adaptation,Laws and regulations,laws to support disaster risk reduction
+Adaptation,Laws and regulations,laws to encourage insurance purchasing
+Adaptation,Laws and regulations,defining property rights and land tenure security
+Adaptation,Laws and regulations,protected areas
+Adaptation,Laws and regulations,marine protected areas
+Adaptation,Laws and regulations,fishing quotas
+Adaptation,Laws and regulations,patent pools and technology transfer
+Adaptation,Government policies and programs,National and regional adaptation plans
+Adaptation,Government policies and programs,mainstreaming climate change
+Adaptation,Government policies and programs,sub-national and local adaptation plans
+Adaptation,Government policies and programs,urban upgrading programs
+Adaptation,Government policies and programs,municipal water management programs
+Adaptation,Government policies and programs,disaster planning and preparedness
+Adaptation,Government policies and programs,city-level plans
+Adaptation,Government policies and programs,district-level plans
+Adaptation,Government policies and programs,sector plans
+Adaptation,Government policies and programs,integrated water resource management
+Adaptation,Government policies and programs,landscape and watershed managemen
+Adaptation,Government policies and programs,integrated coastal zone management
+Adaptation,Government policies and programs,adaptive management
+Adaptation,Government policies and programs,ecosystem-based management
+Adaptation,Government policies and programs,sustainable forest management
+Adaptation,Government policies and programs,fisheries management
+Adaptation,Government policies and programs,community-based adaptation
